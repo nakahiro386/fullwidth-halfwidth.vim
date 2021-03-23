@@ -1,0 +1,1 @@
+# fullwidth-halfwidth.vim
